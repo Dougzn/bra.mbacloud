@@ -2,7 +2,7 @@
 
     {
  
-        "integrante": DOUGLAS,
+        "integrante": "DOUGLAS",
  
         "estado": "PR",
  
@@ -15,12 +15,12 @@
             {"name":"Patience", "estilo": "ROCK"}
  
         ]
- 
-    }
- 
-  {
- 
-        "integrante": DANILO,
+    
+    },
+
+    {
+
+        "integrante": "DANILO",
  
         "estado": "SP",
  
@@ -31,9 +31,13 @@
         "music": [
  
             {"name":"Ocean", "estilo": "POP"}
-  {
+  
+      ]
  
-        "integrante": JEAN,
+    },
+    {
+
+        "integrante": "JEAN",
  
         "estado": "PR",
  
@@ -47,98 +51,92 @@
  
         ]
  
-    }
-  {
- 
-        "integrante": KAUE,
- 
-        "estado": "SP",
- 
-        "idade" : 26,
- 
-        "pet" : "true",
- 
-        "music": [
- 
-            {"name":"Menos é Mais", "estilo": "PAGODE"}
- 
-        ]
- 
-    }
- 
-  {
- 
-        "integrante": WAGNER,
- 
-        "estado": "RJ",
- 
-        "idade" : 44,
- 
-        "pet" : "true",
- 
-        "music": [
- 
-            {"name":"Money for Nothing", "estilo": "ROCK"}
- 
-        ]
- 
-    }
- 
-  {
- 
-        "integrante": LILIAN,
- 
-        "estado": "PR",
- 
-        "idade" : 38,
- 
-        "pet" : "true",
- 
-        "music": [
- 
-            {"name":"Baby Shark", "estilo": "OUTRO"}
- 
-        ]
- 
-    }
-  {
- 
-        "integrante": RENATO,
- 
-        "estado": "PR",
- 
-        "idade" : 35,
- 
-        "pet" : "true",
- 
-        "music": [
- 
-            {"name":"Before You Go", "estilo": "POP"}
- 
-        ]
- 
-    }
-  {
- 
-        "integrante": VIVI,
- 
-        "estado": "SP",
- 
-        "idade" : 32,
- 
-        "pet" : "false",
- 
-        "music": [
- 
-            {"name":"Henrique e Juliano", "estilo": "SERTANEJO"}
- 
-        ]
- 
-    }
- 
-        ]
- 
-    }
- 
- ]
- 
+    },
+    {
+   
+          "integrante": "KAUE",
+   
+          "estado": "SP",
+   
+          "idade" : 26,
+   
+          "pet" : "true",
+   
+          "music": [
+   
+              {"name":"Menos é Mais", "estilo": "PAGODE"}
+   
+          ]
+   
+      },
+   
+    {
+   
+          "integrante": "WAGNER",
+   
+          "estado": "RJ",
+   
+          "idade" : 44,
+   
+          "pet" : "true",
+   
+          "music": [
+   
+              {"name":"Money for Nothing", "estilo": "ROCK"}
+   
+          ]
+   
+      },
+   
+    {
+   
+          "integrante": "LILIAN",
+   
+          "estado": "PR",
+   
+          "idade" : 38,
+   
+          "pet" : "true",
+   
+          "music": [
+   
+              {"name":"Baby Shark", "estilo": "OUTRO"}
+   
+          ]
+   
+      },
+    {
+   
+          "integrante": "RENATO",
+   
+          "estado": "PR",
+   
+          "idade" : 35,
+   
+          "pet" : "true",
+   
+          "music": [
+   
+              {"name":"Before You Go", "estilo": "POP"}
+   
+          ]
+   
+      },
+    {
+   
+          "integrante": "VIVI",
+   
+          "estado": "SP",
+   
+          "idade" : 32,
+   
+          "pet" : "false",
+   
+          "music": [
+   
+              {"name":"Henrique e Juliano", "estilo": "SERTANEJO"}
+   
+          ]
+   
+      }
+]
