@@ -1,0 +1,144 @@
+[
+
+    {
+ 
+        "integrante": DOUGLAS,
+ 
+        "estado": "PR",
+ 
+        "idade" : 37,
+ 
+        "pet" : "true",
+ 
+        "music": [
+ 
+            {"name":"Patience", "estilo": "ROCK"}
+ 
+        ]
+ 
+    }
+ 
+  {
+ 
+        "integrante": DANILO,
+ 
+        "estado": "SP",
+ 
+        "idade" : 32,
+ 
+        "pet" : "false",
+ 
+        "music": [
+ 
+            {"name":"Ocean", "estilo": "POP"}
+  {
+ 
+        "integrante": JEAN,
+ 
+        "estado": "PR",
+ 
+        "idade" : 41,
+ 
+        "pet" : "true",
+ 
+        "music": [
+ 
+            {"name":"HELLS BELLS", "estilo": "ROCK"}
+ 
+        ]
+ 
+    }
+  {
+ 
+        "integrante": KAUE,
+ 
+        "estado": "SP",
+ 
+        "idade" : 26,
+ 
+        "pet" : "true",
+ 
+        "music": [
+ 
+            {"name":"Menos é Mais", "estilo": "PAGODE"}
+ 
+        ]
+ 
+    }
+ 
+  {
+ 
+        "integrante": WAGNER,
+ 
+        "estado": "RJ",
+ 
+        "idade" : 44,
+ 
+        "pet" : "true",
+ 
+        "music": [
+ 
+            {"name":"Money for Nothing", "estilo": "ROCK"}
+ 
+        ]
+ 
+    }
+ 
+  {
+ 
+        "integrante": LILIAN,
+ 
+        "estado": "PR",
+ 
+        "idade" : 38,
+ 
+        "pet" : "true",
+ 
+        "music": [
+ 
+            {"name":"Baby Shark", "estilo": "OUTRO"}
+ 
+        ]
+ 
+    }
+  {
+ 
+        "integrante": RENATO,
+ 
+        "estado": "PR",
+ 
+        "idade" : 35,
+ 
+        "pet" : "true",
+ 
+        "music": [
+ 
+            {"name":"Before You Go", "estilo": "POP"}
+ 
+        ]
+ 
+    }
+  {
+ 
+        "integrante": VIVI,
+ 
+        "estado": "SP",
+ 
+        "idade" : 32,
+ 
+        "pet" : "false",
+ 
+        "music": [
+ 
+            {"name":"Henrique e Juliano", "estilo": "SERTANEJO"}
+ 
+        ]
+ 
+    }
+ 
+        ]
+ 
+    }
+ 
+ ]
+ 
